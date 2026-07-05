@@ -1,0 +1,3 @@
+# add to .gitignore in that project (or globally for all Kotlin exercises)
+build/
+.gradle/
